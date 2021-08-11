@@ -10,3 +10,7 @@ A simple version of MapReduce written in Go.
 # All Tests
 `go test /Users/jchome/src/github.com/drinkbeer/src/SimpleMapReduce/src/mapreduce`
 
+# TODO
+- [ ] Make this a multiple cluster version of MapReduce library, and can be deployed in Kubernetes cluster.
+- [ ] Can submit ad-hoc workload to the cluster.
+
